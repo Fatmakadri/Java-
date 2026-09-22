@@ -1,19 +1,5 @@
 # Java-
 
-//Partie01
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package exercice1;
-
-import java.util.Scanner;
-
-/**
- *
- * @author Fatma KADRI
- */
-
 // Partie 1 : Affichage d'un message
 public class Exercice1 {
 
